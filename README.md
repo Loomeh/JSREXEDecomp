@@ -9,7 +9,7 @@ During the process of this I learned some info:
 
 If you have found anything else or want to help please contact me on Discord (Loomeh#9419).
 
-To download the code, click the "Code" dropdown menu and click "Download as ZIP".
+To download the code, click the "Code" dropdown menu and click "Download ZIP".
 
 
 This was all done in Ghidra.
