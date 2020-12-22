@@ -1,7 +1,7 @@
 # JSREXEDisassembly
 This is a disassembly of the Jet Set Radio Executable.
 
-The ZIP contains a .asm (Assembly) file and an .i64 (IDA Project) file.
+The ZIP contains an .asm (Assembly) file and an .i64 (IDA Project) file.
 
 During the process of this I learned some info:
 - More code might be stored somewhere else on the PC.
