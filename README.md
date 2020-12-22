@@ -12,3 +12,15 @@ To download the code, click the "Code" dropdown menu and click "Download ZIP".
 
 
 This was all done in IDA Freeware.
+
+If you use this in any of your projects **please** credit me. It helps out =).
+
+
+
+
+
+
+
+
+
+gaming.
